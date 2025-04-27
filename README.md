@@ -6,20 +6,19 @@
   </em> 
 </p>
 
+<picture>
+  <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width="150px">
+</picture>
 
 <pre>
 💻 I am a Full Stack Developer with experience in web, desktop, and backend development.
 📝 I have a strong interest in DevOps and Software Architecture.
-🛠️ Key Responsibilities at my current company:
-    - Optimizing application performance, security, and scalability, applying SOLID principles and MVVM architectural patterns.
-    - Developing new web applications following Clean Architecture to ensure maintainable and scalable code.
-    - Managing databases: designing structures, optimizing queries, creating indexes, and normalizing databases for maximum performance.
-    - Building desktop applications with modern frameworks, focusing on creating smooth and dynamic user interfaces.
-    - Leading development teams with Agile methodologies, fostering efficient and high-quality software development.
-    - Maintaining and optimizing point-of-sale (POS) applications, ensuring system performance and scalability through clean architecture practices.
+🧑‍💻 I love using Software as a solution for every Problem.
 🌟 Focused on delivering scalable, maintainable, and high-performance software solutions.
 🤔 I’m currently open to collaborate on challenging and innovative software projects.
 </pre>
+
+
 
 
 ## 🤝 Connect with me
